@@ -2,3 +2,6 @@ create this new file
 
 
 try to have some modification and commit again.
+
+
+git bash
